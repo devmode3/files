@@ -60,4 +60,3 @@ For more details, use the respective activation details in Docs and comparison c
 To activate unsupported products such as Office on Mac, check here.
 
 
-Made with Love ❤️
